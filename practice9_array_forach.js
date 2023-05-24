@@ -28,11 +28,11 @@ console.log(b + ' has character count of ' + b.length);
 // Bruce has character count of 5
 
 
-// // create a new empty array with name charCountArray
+// create a new empty array with name charCountArray
 // let charCountArray = []; 
-// // go through each and every item in names array 
+// go through each and every item in names array 
 // for (let each of names){
-//     // get the character count and add it into charCountArray using push method
+// get the character count and add it into charCountArray using push method
 //     charCountArray.push(  each.length  ); 
 // }
 /**
